@@ -34,7 +34,6 @@ public class LadderAndSnake {
     {
         this.numberOfPlayers = numPlayers;
     }
-
     /** This constructor creates a new object of type LadderAndSnake and takes the same
       * the number of players of an existing Object of the same type
       * @param LadderAndSnake an object
