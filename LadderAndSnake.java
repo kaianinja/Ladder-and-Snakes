@@ -16,7 +16,6 @@ import java.util.Random;
  *@author Sisahga
 */
 public class LadderAndSnake {
-    
     private int numberOfPlayers;
     Scanner key = new Scanner(System.in);
     Random dice = new Random();
